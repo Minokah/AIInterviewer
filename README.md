@@ -1,4 +1,4 @@
-# AI Interviewer Project
+# AI Interviewer
 
 The purpose of this project was to create a mock interview with an AI. Users provide their natural responses to the AI and it will respond through text to speech. This project was meant to be used by Western University. Details below.
 
@@ -10,6 +10,7 @@ The purpose of this project was to create a mock interview with an AI. Users pro
 - Brandon Luu
 
 ## Features
+- Built using Unity (2022.3.58f1)
 - Interview with an AI instance that can provide feedback on your responses
 - VR mode for immersion
 - Text to speech to hear what the AI is saying to you
